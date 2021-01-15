@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle の記録です。
+Kaggleの記録です。
